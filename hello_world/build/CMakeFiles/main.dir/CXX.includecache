@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././say_hello/say_hello.hpp
+
+/home/nicolas/projects/modern_cpp/hello_world/src/main.cpp
+say_hello.hpp
+/home/nicolas/projects/modern_cpp/hello_world/src/say_hello.hpp
+

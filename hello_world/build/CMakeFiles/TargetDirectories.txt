@@ -1,0 +1,4 @@
+/home/nicolas/projects/modern_cpp/hello_world/build/CMakeFiles/rebuild_cache.dir
+/home/nicolas/projects/modern_cpp/hello_world/build/CMakeFiles/edit_cache.dir
+/home/nicolas/projects/modern_cpp/hello_world/build/CMakeFiles/main.dir
+/home/nicolas/projects/modern_cpp/hello_world/build/CMakeFiles/say_hello.dir

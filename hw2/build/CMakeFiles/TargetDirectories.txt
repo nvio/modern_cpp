@@ -1,0 +1,4 @@
+/home/nicolas/projects/modern_cpp/homeworks/hw2/build/CMakeFiles/rebuild_cache.dir
+/home/nicolas/projects/modern_cpp/homeworks/hw2/build/CMakeFiles/task_2.dir
+/home/nicolas/projects/modern_cpp/homeworks/hw2/build/CMakeFiles/edit_cache.dir
+/home/nicolas/projects/modern_cpp/homeworks/hw2/build/CMakeFiles/task_1.dir
