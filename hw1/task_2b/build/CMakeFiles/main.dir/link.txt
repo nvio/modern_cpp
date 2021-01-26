@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.dir/src/main.cpp.o  -o ../results/bin/main ../results/lib/liblib_arithmetic.a 
